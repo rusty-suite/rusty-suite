@@ -1,5 +1,5 @@
 <div style="background-color:#0d1117; padding:20px; border-radius:10px; color:#c9d1d9; font-family:Arial, sans-serif;">
-<img src="[logo.svg](https://github.com/rusty-suite/rusty-suite/blob/main/logo.svg)" width="100" height="100" style="border-radius: 50%;" />
+<img src="https://github.com/rusty-suite/rusty-suite/blob/main/logo.svg" width="100" height="100" style="border-radius: 50%;" />
 
 <h1 style="color:#58a6ff;">rusty-suite</h1>
 
